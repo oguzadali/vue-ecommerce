@@ -1,4 +1,4 @@
-# Vue single page product list app . Includes add product,(id,amount,name etc.) ,delete product ,list product operations. 
+# Vue single page product list app . Includes add product,(id,amount,name etc.) ,delete product ,list product operations and json test database. 
 ### Dependencies
   * vue
   * bootstrap
