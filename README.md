@@ -1,11 +1,21 @@
 # starting
+## Dependencies
+vue
+bootstrap
+jquery
+popper.js
+json-server (for test)
 
 ## Project setup
 ```
 npm install
 ```
+## Run test db (in test-db file) with JSON-Server (Port 3000)
+``` 
+json server --watch db.json
+```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development, (Port 8080)
 ```
 npm run serve
 ```
