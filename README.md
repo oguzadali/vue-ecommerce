@@ -10,7 +10,7 @@
 ```
 npm install
 ```
-## Run test db (in test-db file) with JSON-Server (Port 3000)
+### Run test db (in test-db file) with JSON-Server (Port 3000)
 ``` 
 json server --watch db.json
 ```
