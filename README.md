@@ -1,10 +1,10 @@
 # starting
-## 1.Dependencies
-  2.vue
-  3.bootstrap
-  4.jquery
-  5.popper.js
-  6.json-server (for test)
+* Dependencies
+  * vue
+  * bootstrap
+  * jquery
+  * popper.js
+  * json-server (for test)
 
 ## Project setup
 ```
