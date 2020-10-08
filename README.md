@@ -1,8 +1,8 @@
 # starting
 ## Dependencies
-vue
-bootstrap
-jquery
+-vue
+*bootstrap
+#jquery
 popper.js
 json-server (for test)
 
