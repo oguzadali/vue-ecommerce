@@ -1,12 +1,12 @@
-# starting
-* Dependencies
+# Vue single page product list app . Includes add product,(id,amount,name etc.) ,delete product ,list product operations. 
+### Dependencies
   * vue
   * bootstrap
   * jquery
   * popper.js
   * json-server (for test)
 
-## Project setup
+### Project setup (install dependencies)
 ```
 npm install
 ```
